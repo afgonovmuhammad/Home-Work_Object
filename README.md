@@ -17,9 +17,9 @@
 let person = {
     firstName: "John",
     lastName : "Doe",
-    id       : 5566,
+    id       : 0301,
   };
-  console.log(person.id) // 5566
+  console.log(person.id) // 0301
   
   ***
   ***
@@ -171,7 +171,17 @@ console.log(`max= ${sum}   min= ${sum2} `) //max= 10   min= 1
 ***
 ### call()
 >Усул call()далелҳоро алоҳида мегирад .
+function Product(name,price){
+    this.name=name,
+    this.price=price;
 
+}
+function Food(name,price){
+   Product.call(this,name,price);
+   this.category = 'food';
+
+}
+console.log(new Food('cheese').name)
 
 
 
