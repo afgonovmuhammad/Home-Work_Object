@@ -1,5 +1,5 @@
 
-[![N|Solid](./images/Screenshot.png)
+[![N|Solid](img_1.png)
 ```
                                                      Мундариҷа
 ```
