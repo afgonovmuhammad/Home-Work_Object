@@ -1,5 +1,5 @@
 
-# Lecture 5
+[![N|Solid](./images/Screenshot.png)
 ```
                                                      Мундариҷа
 ```
