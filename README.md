@@ -138,6 +138,11 @@ let d = new Date();
 d.setDate(15);
 console.log(d) //Sun Jan 15 2023 22:36:25 GMT+0500 (Tajikistan Time)
 
+...
+***
+***
+
+
 
 
 
