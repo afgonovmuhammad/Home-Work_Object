@@ -130,13 +130,13 @@ console.log(ms)//1672939798903
 setFullYear()инчунин метавонад моҳ ва рӯзро муқаррар кунад.
 const d = new Date();
 d.setFullYear(2015);
-console.log(d) //Mon Jan 05 2015 22:40:24 GMT+0500 (Tajikistan Time)
+console.log(d) //Mon Jan 05 2015 23:30:24 GMT+0500 (Tajikistan Time)
 
 #### Усули setDate()
 >setDate()рӯзи моҳи санаро муқаррар мекунад.
 let d = new Date();
 d.setDate(15);
-console.log(d) //Sun Jan 15 2023 22:36:25 GMT+0500 (Tajikistan Time)
+console.log(d) //Sun Jan 15 2023 23:36:25 GMT+0500 (Tajikistan Time)
 
 ...
 ***
